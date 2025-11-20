@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm Aditya
 
 ### 🔬 Data Engineer | 🤖 AI/ML Engineer | 📊 Analytics Architect
 
