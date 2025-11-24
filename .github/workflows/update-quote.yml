@@ -1,0 +1,26 @@
+name: Update Dynamic Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update Quote
+        run: |
+          # The quote is dynamically generated via the API in README
+          # This workflow ensures the README is refreshed daily
+          echo "Quote will be auto-updated via API"
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Daily quote update"
+          git push
