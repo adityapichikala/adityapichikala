@@ -189,12 +189,6 @@ me = AIEngineer()
 </td>
 <td align="center" width="50%">
 
-### 📊 StackOverflow Profile
-
-<a href="https://stackoverflow.com/users/YOUR_ID">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/YOUR_ID?theme=dark&website=true&location=true" alt="StackOverflow" />
-</a>
-
 ### 🏆 Kaggle
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/adityapichikala)
@@ -229,11 +223,7 @@ me = AIEngineer()
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityapichikala.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_my_name_aditya_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapichikala)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityapichikala)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityapichikala)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/adityapichikala)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/adityapichikala)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/adityapichikala)
+
 
 </div>
 
