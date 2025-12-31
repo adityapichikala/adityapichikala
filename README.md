@@ -159,18 +159,7 @@ me = AIEngineer()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ **[Read more on Medium](https://medium.com/@adityapichikala)** | **[Dev.to](https://dev.to/adityapichikala)** | **[Portfolio](https://adityapichikala.github.io/portfolio/)**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ## 🏅 Competitive Coding & Achievements
 
