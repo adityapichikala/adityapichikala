@@ -197,7 +197,7 @@ me = AIEngineer()
 
 ### 🏆 Kaggle
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/adityapichikala)
 
 </td>
 </tr>
