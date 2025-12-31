@@ -122,13 +122,7 @@ me = AIEngineer()
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityapichikala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E2E8F0&area=true&custom_title=Contribution%20Graph" />
 </div>
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityapichikala&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ### 🐍 Contribution Snake
 
@@ -228,18 +222,18 @@ me = AIEngineer()
 
 ### 🔥 Data Engineering
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=adityapichikala&repo=data-pipeline-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E2E8F0)](https://github.com/adityapichikala/data-pipeline-project)
+[![Repo](https://img.shields.io/badge/Project-Azure_Document_Classification-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/adityapichikala/azuredocumentclassification)
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=adityapichikala&repo=streaming-analytics&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E2E8F0)](https://github.com/adityapichikala/streaming-analytics)
+[![Repo](https://img.shields.io/badge/Project-Data_Engineering_Project-FF5722?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/adityapichikala/data_engineering_project)
 
 </td>
 <td width="50%">
 
 ### 🤖 AI/ML Projects
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=adityapichikala&repo=llm-application&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E2E8F0)](https://github.com/adityapichikala/llm-application)
+[![Repo](https://img.shields.io/badge/Project-Azure_Demand_Forecast-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/adityapichikala/azure_demand_forecast)
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=adityapichikala&repo=ml-deployment-framework&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E2E8F0)](https://github.com/adityapichikala/ml-deployment-framework)
+[![Repo](https://img.shields.io/badge/Project-Crop_Yield_Prediction-4CAF50?style=for-the-badge&logo=python&logoColor=white)](https://github.com/adityapichikala/Crop-Yield-prediction)
 
 </td>
 </tr>
